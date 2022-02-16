@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding bingo instructions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-131-educational-theory-and-practice-iii-spring-2012/688a12c2b8e08047a23a026b56f53ace_MIT11_131S12_Bingo_inst.pdf
+file: /media/courses/11-131-educational-theory-and-practice-iii-spring-2012/688a12c2b8e08047a23a026b56f53ace_MIT11_131S12_Bingo_inst.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Final Project: Classwork Can Be Fun - Bingo Instructions'
 uid: 688a12c2-b8e0-8047-a23a-026b56f53ace

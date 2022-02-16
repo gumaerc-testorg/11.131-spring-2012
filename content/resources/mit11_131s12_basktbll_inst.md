@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding basketball instructions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-131-educational-theory-and-practice-iii-spring-2012/53109fb4c36be70a052bf161ba8e1ec1_MIT11_131S12_Basktbll_inst.pdf
+file: /media/courses/11-131-educational-theory-and-practice-iii-spring-2012/53109fb4c36be70a052bf161ba8e1ec1_MIT11_131S12_Basktbll_inst.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Final Project: Classwork Can Be Fun - Basketball: Math Review instructions'
 uid: 53109fb4-c36b-e70a-052b-f161ba8e1ec1
