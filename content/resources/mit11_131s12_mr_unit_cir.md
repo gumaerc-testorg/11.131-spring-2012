@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 515d56b9-5e20-897c-918c-e6372db01c1c
 resourcetype: Document
 title: 'Final Project: Mr. Unit Circle'
 uid: cad34e5c-a456-88cc-61d5-0957cb2d8f6f

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 515d56b9-5e20-897c-918c-e6372db01c1c
 resourcetype: Document
 title: 'Final Project: Classwork Can Be Fun - Bingo Board'
 uid: 8a149c40-5cda-b8fa-5d30-86807f30b6ec

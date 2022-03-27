@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 515d56b9-5e20-897c-918c-e6372db01c1c
 resourcetype: Document
 title: 'Final Project: Classwork Can Be Fun - Baseball with Systems of Linear Equations'
 uid: 861af38a-7d7d-c109-9ae0-3c24284a378f
