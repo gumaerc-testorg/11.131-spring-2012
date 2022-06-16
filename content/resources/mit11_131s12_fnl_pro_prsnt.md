@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information final project presentation .
-file: /media/courses/11-131-educational-theory-and-practice-iii-spring-2012/b9dc5a53b3407ae14769e0b5ea9be794_MIT11_131S12_Fnl_Pro_Prsnt.pdf
+file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/b9dc5a53b3407ae14769e0b5ea9be794_MIT11_131S12_Fnl_Pro_Prsnt.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Final Project: Classwork Can Be Fun - Final Project Presentation'
 uid: b9dc5a53-b340-7ae1-4769-e0b5ea9be794
 ---
+This resource contains information final project presentation .
+

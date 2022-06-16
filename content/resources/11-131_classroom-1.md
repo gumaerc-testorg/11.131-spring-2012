@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-131-educational-theory-and-practice-iii-spring-2012/879dacc1b2ad3d576a82742a0f949871_11-131_classroom-1.png
+file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/879dacc1b2ad3d576a82742a0f949871_11-131_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''

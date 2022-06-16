@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a course overview and information on main activities,
+  meeting times, prerequisites, the MIT/Wellesley Scheller Teacher Education Program
+  (STEP), course requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +42,7 @@ Main Activities
 *   Locate and use outside resources (e.g. journals, web, other texts) to support your teaching.
 *   Seek ways to use technology to enhance your instruction.
 *   Journal your teaching experience. The journal will provide the basis for your final reflective paper.
-*   Complete the [Preservice Performance Assessment Practicum (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
+*   Complete the [Preservice Performance Assessment Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
 *   Observe and interview two experienced instructors at your school who teach heterogeneously grouped classes. Write a paper describing the classroom observations and your interview with the instructor. Be sure to include what you learned. Address the question of heterogeneous grouping from your perspective, from the teacher's perspective and from the perspective of three articles on this subject, pro and con.
 *   Complete a special project that benefits students and/or school at which you did your student teaching.
 *   Compose a course expectation handout for your students, detailing your expectations, rules and procedures.
@@ -50,7 +53,7 @@ Course Requirements
 
 *   Class attendance.
 *   Finish your field work. Detail your weekly teaching in your reflective journal. Keep your written practicum log up to date.
-*   Complete assignments. (For details, see the [Assignments]({{< baseurl >}}/pages/assignments) section.)
+*   Complete assignments. (For details, see the {{% resource_link 84ff0e5b-d0bd-3f42-f77a-db905b243acb "Assignments" %}} section.)
 
 Grading
 -------
