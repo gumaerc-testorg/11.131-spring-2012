@@ -1,31 +1,31 @@
 ---
 content_type: page
+description: This page focuses on the course 11.131 Educational Theory and Practice
+  III as it was taught by Reen Gibb in Spring 2012. It includes a course overview,
+  instructor insights, curriculum information, and information on course outcomes,
+  the classroom, student information, and how time was spent.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
 title: Instructor Insights
 uid: 93683f1a-4649-e051-abf8-c885c3a232a4
 ---
-
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _11.131_ _Educational Theory and Practice III_ as it was taught by Reen Gibb in Spring 2012.
 
 11.131 is the final course in a sequence that leads to teacher certification in Massachusetts. The course concentrates on the theory and psychology associated with student learning. Assignments include readings from educational literature, classroom observations accompanied by written reflections, presentations on class topics, and practice teaching.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Prepare to teach in school settings where there is a lot of diversity (e.g., in terms of socioeconomic status, academic abilities and motivations, race, etc.)
-*   Analyze their own learning styles, and then appreciate the large variety of students and learning styles that make up a typical classroom
-*   Learn a wide range of teaching techniques in order to determine their own voice in the classroom
-*   Design and evaluate curricula using curriculum design and assessment tools
-*   Become familiar with state standards for students and the MTEL tests for teacher licensure
+- Prepare to teach in school settings where there is a lot of diversity (e.g., in terms of socioeconomic status, academic abilities and motivations, race, etc.)
+- Analyze their own learning styles, and then appreciate the large variety of students and learning styles that make up a typical classroom
+- Learn a wide range of teaching techniques in order to determine their own voice in the classroom
+- Design and evaluate curricula using curriculum design and assessment tools
+- Become familiar with state standards for students and the MTEL tests for teacher licensure
 
 ### Possibilities for Further Study/Careers
 
@@ -33,8 +33,7 @@ Careers in teaching; some students apply for Teach for America.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "My public high school teaching job is a continuous training ground for the MIT classes I teach." "—Reen Gibb" >}}
 
@@ -54,32 +53,32 @@ This course was originally based on a Wellesley College education course. Much h
 
 Some anticipated future changes include
 
-*   Increased use of technology to support student learning, and
-*   More student teaching hours as required by the state.
+- Increased use of technology to support student learning, and
+- More student teaching hours as required by the state.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-*   [11.129 _Educational Theory and Practice I_](/courses/11-129-educational-theory-and-practice-i-fall-2011/)
-*   11.130 _Educational Theory and Practice II_
+- [11.129 _Educational Theory and Practice I_](/courses/11-129-educational-theory-and-practice-i-fall-2011)
+- 11.130 _Educational Theory and Practice II_
 
 ### Requirements Satisfied
 
-*   HASS ![](/images/educator/icon-question-hass.png)
-*   Part of the [Scheller Teacher Education Program sequence](http://education.mit.edu/classes/overview), which can be used toward teacher certification in Massachusetts
+- HASS ![](/images/educator/icon-question-hass.png)
+- Part of the [Scheller Teacher Education Program sequence](https://education.mit.edu/), which can be used toward teacher certification in Massachusetts
 
 ### Offered
 
-*   Every spring
+- Every spring
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 10 students take this course each year.]({{< resource_file 70779c8d-9155-233a-c92f-aa185d817e80 >}})
+### Enrollment
+
+About 10 students
 
 ### Breakdown by Year
 
@@ -99,31 +98,28 @@ A class of this type should not have more than 12 students. This is a seminar cl
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In class
---------
+### In class
 
-*   Two class sessions per week; 1.5 hours per session
-*   Mandatory attendance
+- Two class sessions per week; 1.5 hours per session
+- Mandatory attendance
 
 In-class activities
 
-*   Activities to improve students’ communication skills and teaching experience, such as presentations and discussions
-*   Resumé writing and interview practice, to prepare students for obtaining a teaching job
-*   Guest speakers, who addressed a range of topics such as first-year teaching experiences, education leadership, administrators’ points of view, and student motivation
+- Activities to improve students’ communication skills and teaching experience, such as presentations and discussions
+- Resumé writing and interview practice, to prepare students for obtaining a teaching job
+- Guest speakers, who addressed a range of topics such as first-year teaching experiences, education leadership, administrators’ points of view, and student motivation
 
-Out of Class
-------------
+### Out of Class
 
-*   Student teaching
-*   Classroom observation
-*   Journaling
-*   Interviews with experienced instructors
-*   Special project to benefit the schools at which students were doing student teaching
-*   Composition of a course expectation handout
-*   Resume composition
-*   The hours here reflect the Spring 2012 offering of this course. Offerings of this course from July 2014 onward include 12 hours per week of out of class work.
+- Student teaching
+- Classroom observation
+- Journaling
+- Interviews with experienced instructors
+- Special project to benefit the schools at which students were doing student teaching
+- Composition of a course expectation handout
+- Resume composition
+- The hours here reflect the Spring 2012 offering of this course. Offerings of this course from July 2014 onward include 12 hours per week of out of class work.
