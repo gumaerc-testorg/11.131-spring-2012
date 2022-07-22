@@ -5,6 +5,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/b9dc5a53b3
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Final Project: Classwork Can Be Fun - Final Project Presentation'
 uid: b9dc5a53-b340-7ae1-4769-e0b5ea9be794
 ---
 This resource contains information final project presentation .
-

@@ -5,6 +5,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/603e2bcf98
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Jeopardy
 uid: 603e2bcf-9850-8db9-9e66-8490f119127d
 ---
 This resource contains information regarding jeopardy.
-

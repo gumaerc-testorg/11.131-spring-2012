@@ -5,6 +5,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/77f820b9c1
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Final Project: Classwork Can Be Fun - Football Instructions'
 uid: 77f820b9-c1d2-e3e5-5ed2-183a4507414f
 ---
 This resource contains information regarding football instructions.
-

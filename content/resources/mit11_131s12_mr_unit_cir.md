@@ -6,6 +6,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/cad34e5ca4
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Final Project: Mr. Unit Circle'
 uid: cad34e5c-a456-88cc-61d5-0957cb2d8f6f
 ---
 This resource contains information regarding final project: mr. unit circle.
-

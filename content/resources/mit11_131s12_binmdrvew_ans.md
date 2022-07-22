@@ -6,6 +6,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/02dc066942
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Final Project: Classwork Can Be Fun - Bingo Intro to Algebra 2 Midyear R
 uid: 02dc0669-42b6-8fec-6a7c-40b2be77eb8b
 ---
 This resource contains information regarding bingo intro to algebra 2 midyear review answers.
-

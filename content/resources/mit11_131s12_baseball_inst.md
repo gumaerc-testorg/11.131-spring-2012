@@ -5,6 +5,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/6cc8c91fcd
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Final Project: Classwork Can Be Fun - Baseball Instructions'
 uid: 6cc8c91f-cd82-dd8c-3919-9838142fa866
 ---
 This resource contains information regarding baseball instructions
-

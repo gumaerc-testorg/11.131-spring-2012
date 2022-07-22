@@ -5,6 +5,7 @@ file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/688a12c2b8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Final Project: Classwork Can Be Fun - Bingo Instructions'
 uid: 688a12c2-b8e0-8047-a23a-026b56f53ace
 ---
 This resource contains information regarding bingo instructions.
-
