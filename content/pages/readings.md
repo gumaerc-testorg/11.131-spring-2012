@@ -1,395 +1,200 @@
 ---
 content_type: page
+description: This section provides the reading assignments for each session of the
+  course.
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5ba2f7f4-4a49-8d7e-9544-f962d22522da
 ---
+\[Slavin\] = Slavin, Robert. *Educational Psychology: Theory and Practice*. Pearson, 2012. ISBN: 9780133018097.
 
-\[Slavin\] = Slavin, Robert. _Educational Psychology: Theory and Practice_. Pearson, 2012. ISBN: 9780133018097.
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Cognitive language and literacy development: Jean Piaget and Lev Vygotsky
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 2 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Social, moral, and emotional development: Erik Erikson, Jean Piaget, and Lawrence Kohlberg, Part I
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 3 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Social, moral, and emotional development: Erik Erikson, Jean Piaget, and Lawrence Kohlberg, Part II
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Student diversity
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 4 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Specific ways to use technology to support a variety of learning styles
 
-_Guest speaker: Greg Schwanbeck__, Teacher, Westwood High School_
+*Guest speaker: Greg Schwanbeck, Teacher, Westwood High School*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Behavioral theories of learning
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 5 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Information processing and cognitive theories of learning
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 6 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Student-centered and constructivist approaches to instruction
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 8 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Differentiated instruction—some practical steps, Part 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 9 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Differentiated instruction—technology and grouping, Part II
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 The administrator's point of view, Part I
 
-_Guest speaker: Emily Parks, Assistant Superintendent, Westwood Public Schools  
-_
+*Guest speaker: Emily Parks, Assistant Superintendent, Westwood Public Schools*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 The administrator's point of view, Part II
 
-_Guest speaker: Emily Parks__, Assistant Superintendent, Westwood Public Schools_
+*Guest speaker: Emily Parks, Assistant Superintendent, Westwood Public Schools*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Getting a teaching job. Interviewing.
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 10 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Motivating the hard to reach student
 
-_Guest speaker: Mark Holthouse__, Teacher, Westwood High School_
+*Guest speaker: Mark Holthouse, Teacher, Westwood High School*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Learners with exceptionalities, Part I
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 12 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Learners with exceptionalities, Part II
 
-_Guest speaker: Greg Schwanbeck, Teacher, Westwood High School  
-_
+*Guest speaker: Greg Schwanbeck, Teacher, Westwood High School*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Standardized tests and accountability
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Chapter 14 in \[Slavin\].
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Licensure process
 
-_Guest speaker: Kenneth Hawes, Professor, Wellesley College  
-_
+*Guest speaker: Kenneth Hawes, Professor, Wellesley College*
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 On-line registration process.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-_Real Boys: Rescuing Our Sons From the Myths of Boyhood._ Presentation and discussion.
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-Pollack, William. _Real Boys: Rescuing Our Sons From the Myths of Boyhood_. Owl Books, 1999. ISBN: 9780805061833.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Real Boys: Rescuing Our Sons From the Myths of Boyhood.* Presentation and discussion.
+{{< tdclose >}}{{< tdopen >}}
+Pollack, William. *Real Boys: Rescuing Our Sons From the Myths of Boyhood*. Owl Books, 1999. ISBN: 9780805061833.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
-_Reviving Ophelia: Saving the Selves of Adolescent Girls._ Presentation and discussion.
-{{< tdclose >}}
-{{< tdopen >}}
-Pipher, Mary. _Reviving Ophelia: Saving the Selves of Adolescent Girls_. The Penguin Group, 2005. ISBN: 9781594481888.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Reviving Ophelia: Saving the Selves of Adolescent Girls.* Presentation and discussion.
+{{< tdclose >}}{{< tdopen >}}
+Pipher, Mary. *Reviving Ophelia: Saving the Selves of Adolescent Girls*. The Penguin Group, 2005. ISBN: 9781594481888.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
-_Fist Stick Knife Gun: A Personal History of Violence._ Presentation and discussion.
-{{< tdclose >}}
-{{< tdopen >}}
-Canada, Geoffrey. _Fist Stick Knife Gun: A Personal History of Violence_. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with [Google Books](http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover>Google Books</a>]</td>
-        </tr>
-        <tr class=)\]
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+*Fist Stick Knife Gun: A Personal History of Violence.* Presentation and discussion.
+{{< tdclose >}}{{< tdopen >}}
+Canada, Geoffrey. *Fist Stick Knife Gun: A Personal History of Violence*. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with \[Google Books\]([http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover\>Google](http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover>Google) Books\]
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Special project presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Special project presentations (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Special project presentations (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 What's next? Taking care of yourself in the teaching profession
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No readings
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
