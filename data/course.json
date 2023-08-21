@@ -36,7 +36,10 @@
     "content": "812145c8-402e-cf22-6ed6-251628ca07ec",
     "website": "11-131-educational-theory-and-practice-iii-spring-2012"
   },
-  "learning_resource_types": [],
-  "site_uid": "137039a4-2a0e-4d0b-849e-776ed21d477e",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "b9652857-13b1-4de7-97fb-80c6f0236d6a",
+  "short_id": "11.131-spring-2012",
   "title": "Course Metadata"
 }
