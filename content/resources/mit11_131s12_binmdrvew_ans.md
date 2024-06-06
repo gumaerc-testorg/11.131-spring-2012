@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding bingo intro to algebra 2
   midyear review answers.
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/02dc066942b68fec6a7c40b2be77eb8b_MIT11_131S12_Binmdrvew_ans.pdf
+file_size: 164084
 file_type: application/pdf
 learning_resource_types:
 - Projects
