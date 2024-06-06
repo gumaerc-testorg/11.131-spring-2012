@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding jeopardy instructions
 file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/0015c74ee85416d8a96841813ab3ade8_MIT11_131S12_Jeop_inst.pdf
+file_size: 592039
 file_type: application/pdf
 learning_resource_types:
 - Projects
