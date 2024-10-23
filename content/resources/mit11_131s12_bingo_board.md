@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding bingo ball.
-file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/8a149c405cdab8fa5d3086807f30b6ec_MIT11_131S12_Bingo_board.pdf
+file: /ol-ocw-studio-app/courses/11-131-educational-theory-and-practice-iii-spring-2012/8a149c405cdab8fa5d3086807f30b6ec_MIT11_131S12_Bingo_board.pdf
 file_size: 139333
 file_type: application/pdf
 learning_resource_types:
