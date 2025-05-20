@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding bingo instructions.
-file: /ol-ocw-studio-app/courses/11-131-educational-theory-and-practice-iii-spring-2012/688a12c2b8e08047a23a026b56f53ace_MIT11_131S12_Bingo_inst.pdf
+file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/688a12c2b8e08047a23a026b56f53ace_MIT11_131S12_Bingo_inst.pdf
 file_size: 636977
 file_type: application/pdf
 learning_resource_types:
