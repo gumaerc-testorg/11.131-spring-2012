@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding baseball with systems of
   linear equations.
-file: /courses/11-131-educational-theory-and-practice-iii-spring-2012/861af38a7d7dc1099ae03c24284a378f_MIT11_131S12_Baseball.pdf
+file: /ol-ocw-studio-app/courses/11-131-educational-theory-and-practice-iii-spring-2012/861af38a7d7dc1099ae03c24284a378f_MIT11_131S12_Baseball.pdf
 file_size: 2195980
 file_type: application/pdf
 learning_resource_types:
