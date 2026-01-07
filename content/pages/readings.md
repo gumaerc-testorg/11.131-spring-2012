@@ -172,7 +172,7 @@ Pipher, Mary. *Reviving Ophelia: Saving the Selves of Adolescent Girls*. The Pen
 {{< tdclose >}}{{< tdopen >}}
 *Fist Stick Knife Gun: A Personal History of Violence.* Presentation and discussion.
 {{< tdclose >}}{{< tdopen >}}
-Canada, Geoffrey. *Fist Stick Knife Gun: A Personal History of Violence*. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with \[Google Books\]({{% resource_link "b1b8465a-106e-4cbc-81a0-6930a6d70acf" "http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover\>Google" %}} Books\]
+Canada, Geoffrey. *Fist Stick Knife Gun: A Personal History of Violence*. Beacon Press, 2010. ISBN: 9780807044612. \[Preview with \[Google Books\]([http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover\>Google](http://books.google.com/books?id=KlZmsxv4SiAC&pg=Pafrontcover>Google) Books\]
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
